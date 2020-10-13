@@ -1,2 +1,1 @@
-# AQI
-Indian Air Quality Analysis
+#Indian Air Quality Analysis
